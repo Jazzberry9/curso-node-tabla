@@ -1,0 +1,14 @@
+{
+  "name": "04-tarea",
+  "version": "0.0.1",
+  "description": "Tarea asignada por Fernando Herrera",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yop",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
